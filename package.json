@@ -6,7 +6,7 @@
     "serve": "npm run lint & vue-cli-service serve",
     "local": "npm run lint & vue-cli-service serve --mode local",
     "dev": "npm run lint & vue-cli-service serve --mode dev",
-    "prod": "npm run lint & vue-cli-service serve --mode prod",
+    "prod": "npm run lint & vue-cli-service serve --mode production",
     "build": "vue-cli-service build",
     "test:unit": "vue-cli-service test:unit",
     "lint": "vue-cli-service lint --fix"
